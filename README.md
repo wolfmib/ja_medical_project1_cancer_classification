@@ -44,7 +44,7 @@ Early and accurate detection of cancer can significantly improve patient outcome
 
 The repository is organized into the following directories:
 
-```
+
 ja_medical_project1_cancer_classification/
 ├── data/               # Datasets
 ├── notebooks/          # Jupyter notebooks
