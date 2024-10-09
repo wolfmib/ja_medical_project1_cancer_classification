@@ -171,7 +171,7 @@ To validate my expertise in integrating local data pipelines with cloud services
 
 
 ![AWS Certified Data Analytics](./certi/certi_one.png)
-![AWS Certified Cloud Practitioner](./certi/certi_one.png)
+![AWS Certified Cloud Practitioner](./certi/certi_two.png)
 
 
 ## Contact
