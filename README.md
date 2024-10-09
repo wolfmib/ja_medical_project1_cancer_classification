@@ -1,8 +1,5 @@
 # ja_medical_project1_cancer_classification
 
-Certainly! Here's the repository description and a template for your `README.md` file, following your specified folder structure.
-
----
 
 ### **Repository Description**
 
@@ -177,8 +174,8 @@ To validate my expertise in integrating local data pipelines with cloud services
 For any questions or suggestions, please contact:
 
 - **Name**: Johnny
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: [wolfmib@gmail.com](mailto:wolfmib@gmail.com)
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/johnny-hung-data-analytic-gaming-actuary)
 
 ## License
 
