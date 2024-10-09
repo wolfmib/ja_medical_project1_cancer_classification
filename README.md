@@ -169,6 +169,11 @@ To validate my expertise in integrating local data pipelines with cloud services
 - **AWS Certified Cloud Practitioner**
   - [View Certificate](https://www.credly.com/badges/9539268b-5bd3-41dc-b87d-4e8de0a255ec)
 
+
+![AWS Certified Data Analytics](./certi/certi_one.png)
+![AWS Certified Cloud Practitioner](./certi/certi_one.png)
+
+
 ## Contact
 
 For any questions or suggestions, please contact:
